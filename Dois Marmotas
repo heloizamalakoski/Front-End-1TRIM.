@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+<head>
+   <meta charset="UTF-8">
+    <title>Dois Marmotas</title>
+   <style>
+    h1{
+        color: red;
+    }
+    h2{
+        color:green;
+    }
+    p{
+        color:blue;
+    
+    }
+    li{
+        color: plum;
+    }
+   </style>
+    
+
+    </head>
+
+    <body>
+
+    <h1>Dois Marmotas</h1>
+    <h2>Historias do grupo</h2>
+
+   <p>Um dia estava cantando em casa, e tinha dois meninos atras da porta ouvindo tudo.</p>
+
+
+   <p>Num sabado, fui ao casamento da madrinha com minha familia, depois do buque ser jogado, levei uma pratada na cabeca.</p>
+
+   <h2>Lugares para conhecer</h2>
+   <ul>
+
+    <li>Parque Barigui</li>
+    <li>Santa Catarina</li>
+    <li>Cascavel</li>
+    <li>Canada</li>
+    <li>Japao</li>
+    <li>Beto carreiro</li>
+    <li>Ilha do mel</li>
+    <li>cafe gato</li>
+    <li>Londrina</li>
+    <li>Jardim Botanico</li>
+   </ul>
+    </body>
+   </html>
+
